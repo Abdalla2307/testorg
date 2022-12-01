@@ -61,6 +61,15 @@ class script(object):
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
+    TTS_TXT = """Help: <b> TTS 🎤 module:</b>
+Translate text to speech
+<b>Commands and Usage:</b>
+• /tts <text> : convert text to speech
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• IMDb can translate texts to 200+ languages."""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
